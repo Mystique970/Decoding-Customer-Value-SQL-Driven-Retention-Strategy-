@@ -1,0 +1,5 @@
+dashboard_segment,customers,total_estimated_spend,avg_estimated_spend,promo_usage_rate,avg_discount_dependency_score,avg_repeat_purchase_ratio,avg_previous_purchases,avg_purchase_frequency_annual,avg_behavioral_loyalty,avg_value_quality_loyalty,avg_retention_proxy_score,satisfaction_rate
+True Loyalist,290,787053,2713.98,0.0,0.0,0.98,44.13,29.08,84.21,68.88,77.2,47.24
+Casual Customer,1933,2705773,1399.78,0.0,0.0,0.92,22.19,15.66,54.33,55.89,59.67,41.65
+Discount Loyalist,243,651264,2680.1,100.0,100.0,0.98,44.12,29.47,84.36,52.83,57.09,39.51
+Discount Hunter,1434,2008711,1400.77,100.0,100.0,0.92,22.63,15.54,54.75,40.65,41.04,41.56
