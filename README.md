@@ -1,12 +1,11 @@
 # CNA Summer Project
 
-## About The Project
 
-The **CNA Summer Project** is a research-oriented project focused on applying computational techniques, data analysis, and scientific problem-solving methods using Python and modern analytical tools. The project aims to build a strong understanding of how computational workflows can be used to analyze data, extract meaningful insights, and solve research-based problems efficiently.
+## Overview
 
-This repository contains the complete work carried out during the project, including data preprocessing, exploratory analysis, feature engineering, visualization, experimentation, and analytical modeling. The project emphasizes both technical implementation and the development of analytical thinking through practical experimentation.
+This project analyzes customer behavior for a D2C fashion brand to identify high-value customers, measure loyalty, and design data-driven retention strategies.
 
-The overall goal of the project is not only to build models or generate outputs, but also to understand the reasoning, methodology, and workflow behind every computational step. The project combines concepts from programming, mathematics, statistics, and machine learning to create a structured and reproducible analytical pipeline.
+Using Python, SQL, Power BI, and customer analytics techniques, the project transforms raw customer data into actionable business insights through feature engineering, loyalty scoring, customer segmentation, and dashboard-based decision support.
 
 ---
 
@@ -64,3 +63,6 @@ Future improvements and extensions of the project may include:
 - Research-oriented extensions and experimentation
 
 ---
+## Author
+
+Developed as part of the CNA Summer Project with collaborative contributions from team members.
